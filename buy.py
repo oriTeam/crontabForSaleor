@@ -91,15 +91,17 @@ password_input.send_keys(password)
 password_input.send_keys(Keys.RETURN)
 try:
     wait = WebDriverWait(driver, 10)
-    wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Log out')]")))
-    # mua hang
-    categories = [link for link in driver.find_elements_by_class_name("nav-link")]
-    categories[random.randrange(0, len(categories))].click()
-    wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "product-filters")))
-    products = [img for img in driver.find_elements_by_class_name("product-list-item-name")]
-    products[random.randrange(0, len(products))].click()
-    wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Add to cart')]"))).click()
+    wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "product-list")))
+    for i in range(1, random.randrange(2, 5)):
+        # mua hang
+        categories = [link for link in driver.find_elements_by_class_name("nav-link")]
+        categories[random.randrange(0, len(categories))].click()
+        wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "product-filters")))
+        products = [img for img in driver.find_elements_by_class_name("product-list-item-name")]
+        products[random.randrange(0, len(products))].click()
+        wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Add to cart')]"))).click()
     # checkout
+    driver.get('http://112.137.131.12:9090/en/checkout/')
     wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Checkout')]"))).click()
     wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Shipping address')]")))
     address = driver.find_elements_by_tag_name("address")
@@ -113,5 +115,9 @@ try:
     wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Continue')]"))).click()
     wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Order & Pay')]"))).click()
     wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Proceed to payment')]"))).click()
+    wait.until(EC.visibility_of_element_located((By.ID, "id_charge_status_2"))).click()
+    wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Make payment')]"))).click()
+except Exception as e:
+    print(str(e))
 finally:
     driver.quit()
