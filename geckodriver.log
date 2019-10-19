@@ -1529,3 +1529,808 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1569922761639	Marionette	INFO	Stopped listening on port 43813
+1571469513439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNGiq0B"
+
+(firefox:9410): Gtk-WARNING **: 14:18:34.112: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:9410): Gtk-WARNING **: 14:18:34.112: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:9410): Gtk-WARNING **: 14:18:34.112: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469516653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571469516654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571469516654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571469516654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9510): Gtk-WARNING **: 14:18:39.170: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9510): Gtk-WARNING **: 14:18:39.170: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9510): Gtk-WARNING **: 14:18:39.170: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9537): Gtk-WARNING **: 14:18:39.481: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9537): Gtk-WARNING **: 14:18:39.481: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9537): Gtk-WARNING **: 14:18:39.481: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9589): Gtk-WARNING **: 14:18:40.885: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9589): Gtk-WARNING **: 14:18:40.885: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9589): Gtk-WARNING **: 14:18:40.885: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469522020	Marionette	INFO	Listening on port 33437
+1571469522089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571469523217	Marionette	INFO	Stopped listening on port 33437
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1571469532508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletcAmov"
+
+(firefox:9650): Gtk-WARNING **: 14:18:52.557: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:9650): Gtk-WARNING **: 14:18:52.557: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:9650): Gtk-WARNING **: 14:18:52.557: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469533200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571469533200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571469533200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571469533200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9701): Gtk-WARNING **: 14:18:54.407: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9701): Gtk-WARNING **: 14:18:54.408: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9701): Gtk-WARNING **: 14:18:54.408: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9720): Gtk-WARNING **: 14:18:54.538: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9720): Gtk-WARNING **: 14:18:54.538: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9720): Gtk-WARNING **: 14:18:54.538: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9780): Gtk-WARNING **: 14:18:55.698: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9780): Gtk-WARNING **: 14:18:55.699: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9780): Gtk-WARNING **: 14:18:55.699: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469535742	Marionette	INFO	Listening on port 35993
+1571469535819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571469546864	Marionette	INFO	Stopped listening on port 35993
+1571469550795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLkiBwx"
+
+(firefox:9840): Gtk-WARNING **: 14:19:10.843: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:9840): Gtk-WARNING **: 14:19:10.843: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:9840): Gtk-WARNING **: 14:19:10.843: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469551515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571469551516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571469551516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571469551516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9892): Gtk-WARNING **: 14:19:12.636: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9892): Gtk-WARNING **: 14:19:12.636: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9892): Gtk-WARNING **: 14:19:12.636: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9911): Gtk-WARNING **: 14:19:12.768: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9911): Gtk-WARNING **: 14:19:12.768: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9911): Gtk-WARNING **: 14:19:12.768: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469553842	Marionette	INFO	Listening on port 46035
+
+(/usr/lib/firefox/firefox:9972): Gtk-WARNING **: 14:19:13.859: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9972): Gtk-WARNING **: 14:19:13.859: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:9972): Gtk-WARNING **: 14:19:13.859: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469553904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571469564777	Marionette	INFO	Stopped listening on port 46035
+1571469569231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1woSZ4"
+
+(firefox:10028): Gtk-WARNING **: 14:19:29.278: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:10028): Gtk-WARNING **: 14:19:29.278: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:10028): Gtk-WARNING **: 14:19:29.278: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469569870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571469569870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571469569871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571469569871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:10081): Gtk-WARNING **: 14:19:30.978: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10081): Gtk-WARNING **: 14:19:30.979: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10081): Gtk-WARNING **: 14:19:30.979: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10100): Gtk-WARNING **: 14:19:31.112: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10100): Gtk-WARNING **: 14:19:31.112: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10100): Gtk-WARNING **: 14:19:31.112: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469572196	Marionette	INFO	Listening on port 35691
+
+(/usr/lib/firefox/firefox:10161): Gtk-WARNING **: 14:19:32.213: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10161): Gtk-WARNING **: 14:19:32.213: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:10161): Gtk-WARNING **: 14:19:32.213: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571469572241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571469583096	Marionette	INFO	Stopped listening on port 35691
+1571470748790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4zxVVj"
+
+(firefox:12075): Gtk-WARNING **: 14:39:08.838: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:12075): Gtk-WARNING **: 14:39:08.838: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:12075): Gtk-WARNING **: 14:39:08.838: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571470749462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571470749462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571470749463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571470749463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:12127): Gtk-WARNING **: 14:39:10.490: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12127): Gtk-WARNING **: 14:39:10.490: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12127): Gtk-WARNING **: 14:39:10.491: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12146): Gtk-WARNING **: 14:39:10.629: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12146): Gtk-WARNING **: 14:39:10.629: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12146): Gtk-WARNING **: 14:39:10.629: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12208): Gtk-WARNING **: 14:39:11.609: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12208): Gtk-WARNING **: 14:39:11.609: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12208): Gtk-WARNING **: 14:39:11.609: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571470751618	Marionette	INFO	Listening on port 37029
+1571470751698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571470752411	Marionette	INFO	Stopped listening on port 37029
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1571470756521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemFbBB6"
+
+(firefox:12262): Gtk-WARNING **: 14:39:16.568: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:12262): Gtk-WARNING **: 14:39:16.568: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:12262): Gtk-WARNING **: 14:39:16.568: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571470757223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571470757223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571470757223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571470757223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:12315): Gtk-WARNING **: 14:39:18.324: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12315): Gtk-WARNING **: 14:39:18.324: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12315): Gtk-WARNING **: 14:39:18.324: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12334): Gtk-WARNING **: 14:39:18.460: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12334): Gtk-WARNING **: 14:39:18.460: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12334): Gtk-WARNING **: 14:39:18.460: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12408): Gtk-WARNING **: 14:39:19.760: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12408): Gtk-WARNING **: 14:39:19.760: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12408): Gtk-WARNING **: 14:39:19.760: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571470759793	Marionette	INFO	Listening on port 35389
+1571470759843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571470760618	Marionette	INFO	Stopped listening on port 35389
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1571471462097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez5dHJn"
+
+(firefox:12785): Gtk-WARNING **: 14:51:02.382: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:12785): Gtk-WARNING **: 14:51:02.382: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:12785): Gtk-WARNING **: 14:51:02.382: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571471463822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571471463822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571471463822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571471463822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:12837): Gtk-WARNING **: 14:51:05.150: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12837): Gtk-WARNING **: 14:51:05.150: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12837): Gtk-WARNING **: 14:51:05.150: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12846): Gtk-WARNING **: 14:51:05.233: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12846): Gtk-WARNING **: 14:51:05.233: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12846): Gtk-WARNING **: 14:51:05.233: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12914): Gtk-WARNING **: 14:51:06.363: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12914): Gtk-WARNING **: 14:51:06.363: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:12914): Gtk-WARNING **: 14:51:06.364: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571471466373	Marionette	INFO	Listening on port 41731
+1571471466414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571471467156	Marionette	INFO	Stopped listening on port 41731
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: AbortError: A request was aborted, for example through a call to IDBTransaction.abort."
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 195: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 117: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 367: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+1571471578222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoySg5V"
+
+(firefox:13004): Gtk-WARNING **: 14:52:58.269: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:13004): Gtk-WARNING **: 14:52:58.269: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:13004): Gtk-WARNING **: 14:52:58.269: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571471578921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571471578921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571471578921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571471578921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:13064): Gtk-WARNING **: 14:53:00.049: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13064): Gtk-WARNING **: 14:53:00.049: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13064): Gtk-WARNING **: 14:53:00.049: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13083): Gtk-WARNING **: 14:53:00.195: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13083): Gtk-WARNING **: 14:53:00.195: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13083): Gtk-WARNING **: 14:53:00.195: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13144): Gtk-WARNING **: 14:53:01.306: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13144): Gtk-WARNING **: 14:53:01.306: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13144): Gtk-WARNING **: 14:53:01.306: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571471581318	Marionette	INFO	Listening on port 44651
+1571471581367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571471582087	Marionette	INFO	Stopped listening on port 44651
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: AbortError: A request was aborted, for example through a call to IDBTransaction.abort."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1571472054265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6kesMH"
+
+(firefox:13432): Gtk-WARNING **: 15:00:54.311: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:13432): Gtk-WARNING **: 15:00:54.311: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:13432): Gtk-WARNING **: 15:00:54.311: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571472055030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571472055030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571472055030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571472055031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:13484): Gtk-WARNING **: 15:00:56.125: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13484): Gtk-WARNING **: 15:00:56.125: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13484): Gtk-WARNING **: 15:00:56.125: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13503): Gtk-WARNING **: 15:00:56.257: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13503): Gtk-WARNING **: 15:00:56.257: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13503): Gtk-WARNING **: 15:00:56.257: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571472057139	Marionette	INFO	Listening on port 40447
+
+(/usr/lib/firefox/firefox:13564): Gtk-WARNING **: 15:00:57.204: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13564): Gtk-WARNING **: 15:00:57.204: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:13564): Gtk-WARNING **: 15:00:57.204: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571472057205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571472057897	Marionette	INFO	Stopped listening on port 40447
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: AbortError: A request was aborted, for example through a call to IDBTransaction.abort."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+1571472801843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1YY84U"
+
+(firefox:14994): Gtk-WARNING **: 15:13:21.891: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:14994): Gtk-WARNING **: 15:13:21.891: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:14994): Gtk-WARNING **: 15:13:21.891: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571472802526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571472802526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571472802527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571472802527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:15046): Gtk-WARNING **: 15:13:23.582: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15046): Gtk-WARNING **: 15:13:23.582: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15046): Gtk-WARNING **: 15:13:23.582: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15067): Gtk-WARNING **: 15:13:23.718: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15067): Gtk-WARNING **: 15:13:23.719: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15067): Gtk-WARNING **: 15:13:23.719: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15130): Gtk-WARNING **: 15:13:24.694: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15130): Gtk-WARNING **: 15:13:24.694: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:15130): Gtk-WARNING **: 15:13:24.694: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571472804704	Marionette	INFO	Listening on port 44693
+1571472804755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571472805477	Marionette	INFO	Stopped listening on port 44693
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1571473801514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWLg2p0"
+Error: no DISPLAY environment variable specified
+1571473862075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBB05Oz"
+Error: no DISPLAY environment variable specified
+1571473921754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRsEWeq"
+Error: no DISPLAY environment variable specified
+1571473982061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile38auEr"
+Error: no DISPLAY environment variable specified
+1571474194905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehMFRw1"
+
+(firefox:16918): Gtk-WARNING **: 15:36:34.955: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:16918): Gtk-WARNING **: 15:36:34.955: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:16918): Gtk-WARNING **: 15:36:34.955: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474195559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571474195560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571474195560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571474195560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:16971): Gtk-WARNING **: 15:36:36.644: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16971): Gtk-WARNING **: 15:36:36.644: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16971): Gtk-WARNING **: 15:36:36.644: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16990): Gtk-WARNING **: 15:36:36.779: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16990): Gtk-WARNING **: 15:36:36.779: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:16990): Gtk-WARNING **: 15:36:36.779: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474197765	Marionette	INFO	Listening on port 43843
+
+(/usr/lib/firefox/firefox:17053): Gtk-WARNING **: 15:36:37.785: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17053): Gtk-WARNING **: 15:36:37.785: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17053): Gtk-WARNING **: 15:36:37.785: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474197826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571474198623	Marionette	INFO	Stopped listening on port 43843
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: AbortError: A request was aborted, for example through a call to IDBTransaction.abort."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1571474227422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileez8KEh"
+
+(firefox:17164): Gtk-WARNING **: 15:37:07.471: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:17164): Gtk-WARNING **: 15:37:07.471: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:17164): Gtk-WARNING **: 15:37:07.471: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474228059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571474228060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571474228060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571474228060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:17215): Gtk-WARNING **: 15:37:09.202: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17215): Gtk-WARNING **: 15:37:09.202: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17215): Gtk-WARNING **: 15:37:09.202: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17234): Gtk-WARNING **: 15:37:09.341: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17234): Gtk-WARNING **: 15:37:09.341: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17234): Gtk-WARNING **: 15:37:09.341: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474230428	Marionette	INFO	Listening on port 43395
+
+(/usr/lib/firefox/firefox:17295): Gtk-WARNING **: 15:37:10.441: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17295): Gtk-WARNING **: 15:37:10.441: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17295): Gtk-WARNING **: 15:37:10.441: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474230460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571474231196	Marionette	INFO	Stopped listening on port 43395
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1571474636199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec0cKLN"
+
+(firefox:17910): Gtk-WARNING **: 15:43:56.250: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:17910): Gtk-WARNING **: 15:43:56.250: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:17910): Gtk-WARNING **: 15:43:56.250: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474636853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571474636854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571474636854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571474636854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:17960): Gtk-WARNING **: 15:43:57.886: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17960): Gtk-WARNING **: 15:43:57.887: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17960): Gtk-WARNING **: 15:43:57.887: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17979): Gtk-WARNING **: 15:43:58.020: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17979): Gtk-WARNING **: 15:43:58.020: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:17979): Gtk-WARNING **: 15:43:58.020: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474639021	Marionette	INFO	Listening on port 34307
+
+(/usr/lib/firefox/firefox:18044): Gtk-WARNING **: 15:43:59.030: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18044): Gtk-WARNING **: 15:43:59.030: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18044): Gtk-WARNING **: 15:43:59.030: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474639107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571474639863	Marionette	INFO	Stopped listening on port 34307
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1571474973060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG0BGG7"
+
+(firefox:18480): Gtk-WARNING **: 15:49:33.107: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:18480): Gtk-WARNING **: 15:49:33.107: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:18480): Gtk-WARNING **: 15:49:33.107: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474973706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571474973706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571474973707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571474973707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:18532): Gtk-WARNING **: 15:49:34.702: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18532): Gtk-WARNING **: 15:49:34.702: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18532): Gtk-WARNING **: 15:49:34.702: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18551): Gtk-WARNING **: 15:49:34.838: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18551): Gtk-WARNING **: 15:49:34.839: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18551): Gtk-WARNING **: 15:49:34.839: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18615): Gtk-WARNING **: 15:49:35.816: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18615): Gtk-WARNING **: 15:49:35.816: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:18615): Gtk-WARNING **: 15:49:35.816: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571474975826	Marionette	INFO	Listening on port 37747
+1571474975873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571474976647	Marionette	INFO	Stopped listening on port 37747
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 117: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1571475442111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNkgsN7"
+
+(firefox:19379): Gtk-WARNING **: 15:57:22.160: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:19379): Gtk-WARNING **: 15:57:22.160: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:19379): Gtk-WARNING **: 15:57:22.160: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571475442798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571475442798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571475442798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571475442798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:19433): Gtk-WARNING **: 15:57:23.832: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19433): Gtk-WARNING **: 15:57:23.832: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19433): Gtk-WARNING **: 15:57:23.832: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19452): Gtk-WARNING **: 15:57:24.205: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19452): Gtk-WARNING **: 15:57:24.205: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19452): Gtk-WARNING **: 15:57:24.205: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19518): Gtk-WARNING **: 15:57:25.757: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19518): Gtk-WARNING **: 15:57:25.757: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:19518): Gtk-WARNING **: 15:57:25.757: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571475445980	Marionette	INFO	Listening on port 40069
+1571475446021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571475447153	Marionette	INFO	Stopped listening on port 40069
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1571477001034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet8ZG1t"
+
+(firefox:20617): Gtk-WARNING **: 16:23:21.240: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:20617): Gtk-WARNING **: 16:23:21.240: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:20617): Gtk-WARNING **: 16:23:21.240: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477002131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571477002131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571477002132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571477002132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:20668): Gtk-WARNING **: 16:23:23.325: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20668): Gtk-WARNING **: 16:23:23.325: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20668): Gtk-WARNING **: 16:23:23.325: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20687): Gtk-WARNING **: 16:23:23.457: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20687): Gtk-WARNING **: 16:23:23.457: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20687): Gtk-WARNING **: 16:23:23.457: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477004494	Marionette	INFO	Listening on port 36171
+
+(/usr/lib/firefox/firefox:20748): Gtk-WARNING **: 16:23:24.526: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20748): Gtk-WARNING **: 16:23:24.526: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20748): Gtk-WARNING **: 16:23:24.526: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477004549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571477005438	Marionette	INFO	Stopped listening on port 36171
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1571477021364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL69Mz6"
+
+(firefox:20817): Gtk-WARNING **: 16:23:41.411: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:20817): Gtk-WARNING **: 16:23:41.411: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:20817): Gtk-WARNING **: 16:23:41.411: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477022072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571477022072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571477022072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571477022072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:20869): Gtk-WARNING **: 16:23:43.169: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20869): Gtk-WARNING **: 16:23:43.169: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20869): Gtk-WARNING **: 16:23:43.169: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20888): Gtk-WARNING **: 16:23:43.331: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20888): Gtk-WARNING **: 16:23:43.331: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20888): Gtk-WARNING **: 16:23:43.332: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477024370	Marionette	INFO	Listening on port 46567
+
+(/usr/lib/firefox/firefox:20954): Gtk-WARNING **: 16:23:44.382: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20954): Gtk-WARNING **: 16:23:44.382: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:20954): Gtk-WARNING **: 16:23:44.382: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477024398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571477025127	Marionette	INFO	Stopped listening on port 46567
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 117: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 912: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1571477264180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePJUXHt"
+
+(firefox:21202): Gtk-WARNING **: 16:27:44.231: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:21202): Gtk-WARNING **: 16:27:44.232: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:21202): Gtk-WARNING **: 16:27:44.232: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477264910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571477264910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571477264910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571477264910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:21254): Gtk-WARNING **: 16:27:46.107: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21254): Gtk-WARNING **: 16:27:46.107: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21254): Gtk-WARNING **: 16:27:46.107: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21273): Gtk-WARNING **: 16:27:46.251: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21273): Gtk-WARNING **: 16:27:46.251: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21273): Gtk-WARNING **: 16:27:46.251: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477267218	Marionette	INFO	Listening on port 46349
+
+(/usr/lib/firefox/firefox:21336): Gtk-WARNING **: 16:27:47.235: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21336): Gtk-WARNING **: 16:27:47.235: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21336): Gtk-WARNING **: 16:27:47.235: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477267289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571477268394	Marionette	INFO	Stopped listening on port 46349
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1571477330538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZbYEd3"
+
+(firefox:21423): Gtk-WARNING **: 16:28:50.590: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:21423): Gtk-WARNING **: 16:28:50.590: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:21423): Gtk-WARNING **: 16:28:50.591: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477331268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571477331268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571477331268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571477331268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:21477): Gtk-WARNING **: 16:28:52.453: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21477): Gtk-WARNING **: 16:28:52.453: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21477): Gtk-WARNING **: 16:28:52.453: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21496): Gtk-WARNING **: 16:28:52.584: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21496): Gtk-WARNING **: 16:28:52.584: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21496): Gtk-WARNING **: 16:28:52.584: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477333659	Marionette	INFO	Listening on port 42451
+
+(/usr/lib/firefox/firefox:21559): Gtk-WARNING **: 16:28:53.673: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21559): Gtk-WARNING **: 16:28:53.673: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21559): Gtk-WARNING **: 16:28:53.673: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477333752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571477335218	Marionette	INFO	Stopped listening on port 42451
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1571477398368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile60J83I"
+
+(firefox:21637): Gtk-WARNING **: 16:29:58.422: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:21637): Gtk-WARNING **: 16:29:58.422: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:21637): Gtk-WARNING **: 16:29:58.422: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477399086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571477399086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571477399087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571477399087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:21688): Gtk-WARNING **: 16:30:00.246: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21688): Gtk-WARNING **: 16:30:00.246: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21688): Gtk-WARNING **: 16:30:00.246: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21707): Gtk-WARNING **: 16:30:00.381: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21707): Gtk-WARNING **: 16:30:00.381: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21707): Gtk-WARNING **: 16:30:00.381: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21779): Gtk-WARNING **: 16:30:01.545: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21779): Gtk-WARNING **: 16:30:01.545: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21779): Gtk-WARNING **: 16:30:01.545: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477401554	Marionette	INFO	Listening on port 40031
+1571477401594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571477402677	Marionette	INFO	Stopped listening on port 40031
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: AbortError: A request was aborted, for example through a call to IDBTransaction.abort."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1571477494641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelQOHjN"
+
+(firefox:21908): Gtk-WARNING **: 16:31:34.694: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:21908): Gtk-WARNING **: 16:31:34.694: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:21908): Gtk-WARNING **: 16:31:34.694: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477495384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571477495384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571477495384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571477495384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:21961): Gtk-WARNING **: 16:31:36.677: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21961): Gtk-WARNING **: 16:31:36.678: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21961): Gtk-WARNING **: 16:31:36.678: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21980): Gtk-WARNING **: 16:31:36.821: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21980): Gtk-WARNING **: 16:31:36.821: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:21980): Gtk-WARNING **: 16:31:36.821: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22040): Gtk-WARNING **: 16:31:37.939: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22040): Gtk-WARNING **: 16:31:37.939: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22040): Gtk-WARNING **: 16:31:37.939: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477497948	Marionette	INFO	Listening on port 38639
+1571477498050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571477498807	Marionette	INFO	Stopped listening on port 38639
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.log: "RemoteSettingsWorker error: AbortError: A request was aborted, for example through a call to IDBTransaction.abort."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB list() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1571477686232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenrSKwX"
+
+(firefox:22220): Gtk-WARNING **: 16:34:46.284: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(firefox:22220): Gtk-WARNING **: 16:34:46.284: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(firefox:22220): Gtk-WARNING **: 16:34:46.284: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477686930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571477686930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571477686931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571477686931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:22272): Gtk-WARNING **: 16:34:47.988: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22272): Gtk-WARNING **: 16:34:47.988: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22272): Gtk-WARNING **: 16:34:47.988: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22291): Gtk-WARNING **: 16:34:48.123: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22291): Gtk-WARNING **: 16:34:48.123: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22291): Gtk-WARNING **: 16:34:48.123: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477689141	Marionette	INFO	Listening on port 33757
+
+(/usr/lib/firefox/firefox:22352): Gtk-WARNING **: 16:34:49.149: Theme parsing error: gtk.css:6757:29: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22352): Gtk-WARNING **: 16:34:49.149: Theme parsing error: gtk.css:6759:34: Missing opening bracket in color definition
+
+(/usr/lib/firefox/firefox:22352): Gtk-WARNING **: 16:34:49.149: Theme parsing error: gtk.css:6765:28: Missing opening bracket in color definition
+1571477689241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1571477702217	Marionette	INFO	Stopped listening on port 33757
