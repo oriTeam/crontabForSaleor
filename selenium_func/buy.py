@@ -110,8 +110,8 @@ def buy():
         if len(address) == 0:
             driver.find_element_by_id("id_street_address_1").send_keys("street address")
             driver.find_element_by_id("id_street_address_2").send_keys("apartment")
-            driver.find_element_by_id("id_city").send_keys("city")
             country_area = vn_country[random.randrange(0, len(vn_country))]
+            driver.find_element_by_id("id_city").send_keys(country_area)
             driver.find_element_by_id("id_country_area").send_keys(country_area)
         wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Continue')]"))).click()
         wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Continue')]"))).click()
