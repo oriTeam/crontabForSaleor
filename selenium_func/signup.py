@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 def signup():
     driver = webdriver.Firefox()
-    driver.get("http://112.137.131.12:9090/en/account/signup/")
+    driver.get("http://34.67.41.100:8000/en/account/signup/")
 
     # dang ky
     generated_email = "test_{}@gmail.com".format(time.time())
@@ -22,7 +22,7 @@ def signup():
     try:
         wait = WebDriverWait(driver, 10)
 
-        success_alert = wait.until(EC.url_changes("http://112.137.131.12:9090/en/"))
+        success_alert = wait.until(EC.url_changes("http://34.67.41.100:8000/en/"))
 
         import csv
         users = open('users.csv', 'a')

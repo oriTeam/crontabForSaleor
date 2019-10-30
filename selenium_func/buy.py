@@ -83,7 +83,7 @@ def buy():
 
     # dang nhap
     driver = webdriver.Firefox()
-    driver.get("http://112.137.131.12:9090/en/account/login/")
+    driver.get("http://34.67.41.100:8000/en/account/login/")
 
     email_input = driver.find_element_by_id("id_username")
     email_input.send_keys(email)
@@ -103,7 +103,7 @@ def buy():
             products[random.randrange(0, len(products))].click()
             wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Add to cart')]"))).click()
         # checkout
-        driver.get('http://112.137.131.12:9090/en/checkout/')
+        driver.get('http://34.67.41.100:8000/en/checkout/')
         wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Checkout')]"))).click()
         wait.until(EC.visibility_of_element_located((By.XPATH, "//*[contains(text(), 'Shipping address')]")))
         address = driver.find_elements_by_tag_name("address")
